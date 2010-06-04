@@ -6,7 +6,7 @@ SmartFwt License Information
 
 Copyright (c) 2010 Dário Freire
 
-FanFair is free software; you can redistribute it and/or modify it
+SmartFwt is free software; you can redistribute it and/or modify it
 under the terms of the [GNU Lesser General Public License version 3] [lgpl-3.0]
 as published by the Free Software Foundation.
 
